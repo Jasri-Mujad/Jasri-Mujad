@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Jasri-Mujad
-- 👀 I’m interested in Devops and Cloud things
-- 🌱 I’m currently learning Devops tools
-- 💞️ I’m looking to collaborate on all the Cloud/Devops Engineers
-- 📫 How to reach me via email: mhd.jasrimujad@gmail.com or mobile: +601137499919
-- 😄 Pronouns: He/HIm
-- ⚡ Fun fact: Graduate of Analytical Chemistry and migrated to IT
+# 👋 Hi, I'm Jasri
 
-<!---
-Jasri-Mujad/Jasri-Mujad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧭 Transitioning into Tech | Future Cloud Support & DevOps Engineer  
+🌱 Currently learning AWS, Docker, Linux, GitHub Actions and Terraform
+📍 Based in Malaysia | 💼 Open to remote opportunities
+
+---
+
+### 🛠️ Tech I'm Learning
+- ☁️ **AWS**: EC2, CloudWatch, SNS, IAM
+- 🐧 **Linux**: Command line, WSL, file permissions
+- 🐳 **Docker**: Images, containers, Dockerfile
+- 🔧 **Git & GitHub**: Commits, branches, README, GitHub Actions
+- ⚙️ **CI/CD Tools**: GitHub Actions (starter projects)
+
+---
+
+### 📂 Projects In Progress
+- `ec2-monitoring-alert` – Automated EC2 CPU alerts using CloudWatch + SNS  
+- `docker-2048-game` – Deployed 2048 game in Docker on WSL  
+- `linux-scripts` – Useful Bash scripts for system setup and monitoring  
+- `cloud-notes` – My personal notes on AWS, Git, DevOps tools
+
+---
+
+### 🔍 Goals (Mid-2025)
+- ✅ Complete AWS Certified Cloud Practitioner  
+- ✅ Publish 3 beginner DevOps projects on GitHub  
+- ⏳ Build a simple CI/CD pipeline with GitHub Actions  
+- ⏳ Learn Bash + basic Python for scripting  
+- ⏳ Land a junior role in Cloud Support or DevOps 🚀
+
+---
+
+### 📫 Let's Connect
+- [🌐 LinkedIn](https://linkedin.com/in/jasri-mujad)
+- [📧 Email Me](mhd.jasrimujad@gmail.com)
