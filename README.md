@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jasri
 
-🧭 Transitioning into Tech | Future Cloud Support & DevOps Engineer  
+🧭 Transitioning into Tech | GO BIG 
 🌱 Currently learning AWS, Docker, Linux, GitHub Actions and Terraform
 📍 Based in Malaysia | 💼 Open to remote opportunities
 
